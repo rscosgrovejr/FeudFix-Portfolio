@@ -6,6 +6,12 @@ FeudFix is a full-stack application designed to help consumers research, organiz
 
 The platform combines structured case management, document analysis, company policy research, and AI-assisted workflows to help users make informed decisions and track their progress toward resolution.
 
+## Application Screenshot
+
+![FeudFix Case Management](images/feudfix-case-management.png)
+
+*FeudFix case management interface showing dispute analysis, progress tracking, and the AI assistant.*
+
 ## Key Capabilities
 
 - **Conversational case intake** — Collect dispute details through a guided, interactive experience.
